@@ -1,2 +1,4 @@
-1 # ignore all .log files
-2 *.log
+# ignore all .log files
+*.log
+
+
